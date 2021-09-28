@@ -1,0 +1,7 @@
+C:\Users\Luciana\source\repos\AprendendoCSharp2\ByteBank7\bin\Debug\ByteBank7.exe.config
+C:\Users\Luciana\source\repos\AprendendoCSharp2\ByteBank7\bin\Debug\ByteBank7.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp2\ByteBank7\bin\Debug\ByteBank7.pdb
+C:\Users\Luciana\source\repos\AprendendoCSharp2\ByteBank7\obj\Debug\ByteBank7.csprojAssemblyReference.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp2\ByteBank7\obj\Debug\ByteBank7.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\source\repos\AprendendoCSharp2\ByteBank7\obj\Debug\ByteBank7.exe
+C:\Users\Luciana\source\repos\AprendendoCSharp2\ByteBank7\obj\Debug\ByteBank7.pdb
